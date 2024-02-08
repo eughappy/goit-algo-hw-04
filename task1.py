@@ -11,7 +11,7 @@ def total_salary(path):
             avg = sum(salary_mass) // count
         return ttl, avg
     except:
-        print("blablabla")
+        print("No such file in directory\\file is damaged. Try one more time.")
     
 
 
